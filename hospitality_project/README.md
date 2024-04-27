@@ -1,7 +1,7 @@
 
 # AtliQ Hospitality Chain Analysis
 
-This project focuses on analysis of bookings data and customer behaviour in a large imaginary hospitality chain, named ***AtliQ Hotels.*** This project was a guided one by @codebasics. I am grateful to them for providing a comprehensive dataset.
+This project focuses on analysis of bookings data and customer behaviour in a large imaginary hospitality chain, named ***AtliQ Grands.*** This project was a guided one by @codebasics. I am grateful to them for providing a comprehensive dataset.
 
 See the dashboard [here.](https://app.powerbi.com/view?r=eyJrIjoiNDE3ZGEyMDctNDc0Yi00MGQxLTk5ODktZDYwOGZiNzU0OWI1IiwidCI6IjRjZTg1NWFkLTMzYjctNGQ5Yy1iNGJhLTU5ZWNhMjYyZGE5OSJ9)
 
